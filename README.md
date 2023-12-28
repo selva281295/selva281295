@@ -1,4 +1,6 @@
 ### Hi there 👋
+### Im currently working on to understand on HTML, PHP, C# & C++ development.
+### Im still learning from every single bit. just for fun.
 
 <!--
 **selva281295/selva281295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
